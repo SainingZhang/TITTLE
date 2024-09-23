@@ -105,15 +105,6 @@ PSNR and SSIM are computed by [pyiqa](https://github.com/chaofengc/IQA-PyTorch).
 | VQGAN-LC | f16 | 99.9%     | 2.62 | [Google Drive](https://drive.google.com/drive/folders/12824gtaR_upGH1DJRNfAjQFiw8c1FmwJ?usp=sharing)
 | VQGAN-LC | f8 | 99.5%     | 1.29 | [Google Drive](https://drive.google.com/drive/folders/12824gtaR_upGH1DJRNfAjQFiw8c1FmwJ?usp=sharing)
 
-### Image Generation
-| Method  | Resolution | Utilization Rate | FID Score | Checkpoints |
-|---------|---------------|----------|----------|----------|
-| GPT-LC | f16 | 97.0%     | 15.4 | [Google Drive](https://drive.google.com/drive/folders/1DDHYpEKJUeVePIPzLf72DbUZ7Qa9x9yx?usp=sharing) |
-| DiT-LC | f16 | 99.4%     | 10.8    | [Google Drive](https://drive.google.com/drive/folders/1nkpd82_Gmbvo77bPOjVjh60_jZDlsbJd?usp=sharing) |
-| SiT-LC | f16 | 99.6%   | 8.40    | [Google Drive](https://drive.google.com/drive/folders/10jORUAWLk7sCmwYgmkjdSA91_iEwYyRV?usp=sharing)|
-| LDM-LC | f16 | 99.4% | 8.36 | [Google Drive](https://drive.google.com/drive/folders/1AlqRTJABnxrEKxgLUp-v0O9cnDUnboO5?usp=sharing) |
-| LDM-LC | f8 | 99.4% | 5.06 | [Google Drive](https://drive.google.com/drive/folders/1AlqRTJABnxrEKxgLUp-v0O9cnDUnboO5?usp=sharing) |
-
 
 ## 👨‍🏫 Acknowledgement
 
