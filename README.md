@@ -1,5 +1,7 @@
 # TITTLE: The alignment of the SD3 VAE and the large codebook
 
+The simple alignment of well-trained SD3 VAE and the large codebook from VQGAN-LC, which easily achieves SoTA.
+
 ## 🔧 Preparation
 
 ### Prepare Environment
