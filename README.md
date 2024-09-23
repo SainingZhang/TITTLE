@@ -1,9 +1,4 @@
-# VQGAN-LC
-
-
-This is the implementation of the paper ``[Scaling the Codebook Size of VQ-GAN to 100,000 with a Utilization Rate of 99%](https://arxiv.org/pdf/2406.11837)''
-
-![Figure](./overview.png)
+# VQGAN-LC-SD3
 
 ## 🔧 Preparation
 
@@ -121,7 +116,6 @@ PSNR and SSIM are computed by [pyiqa](https://github.com/chaofengc/IQA-PyTorch).
 
 
 ## 👨‍🏫 Acknowledgement
-This repo is built on [taming-transformers](https://github.com/CompVis/taming-transformers), [latent-diffusion](https://github.com/CompVis/latent-diffusion), [DiT](https://github.com/facebookresearch/DiT), and [SiT](https://github.com/willisma/SiT).
 
 The evaluation tools are used from [pyiqa](https://github.com/chaofengc/IQA-PyTorch) and [cleanfid](https://github.com/GaParmar/clean-fid).
 
