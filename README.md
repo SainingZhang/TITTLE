@@ -1,4 +1,4 @@
-# The threshold of the spatial tokenizer
+# VQGAN-LC-SD3: The alignment of the SD3 vae and the large codebook
 
 ## 🔧 Preparation
 
