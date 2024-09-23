@@ -1,4 +1,4 @@
-# VQGAN-LC-SD3: What does it take to make a good image quantizer
+# VQGAN-LC-SD3: What does it take to make good image quantization
 
 ## 🔧 Preparation
 
