@@ -93,9 +93,7 @@ torchrun --nproc_per_node 1 eval_reconstruction.py \
         --n_vision_words 100000 \
         --use_cblinear 1 \
         --dataset "imagenet"
-```
 
-PSNR and SSIM are computed by [pyiqa](https://github.com/chaofengc/IQA-PyTorch). rFID is calculated by [cleanfid](https://github.com/GaParmar/clean-fid).
 
 ## 📏 Checkpoints
 
