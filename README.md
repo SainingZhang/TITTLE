@@ -1,4 +1,4 @@
-# VQGAN-LC-SD3: What makes good image quantization
+# The threshold of the spatial tokenizer
 
 ## 🔧 Preparation
 
