@@ -66,8 +66,6 @@ torchrun --nproc_per_node 8 training_vqgan.py \
     --embed_dim 8
 ```
 
-We provide VQGAN-LC-100K trained for 20 epoches at [Google Drive](https://drive.google.com/drive/folders/12824gtaR_upGH1DJRNfAjQFiw8c1FmwJ?usp=sharing).
-
 #### VQGAN-LC Testing
 Testing VQGAN-LC for image quantization with the following script:
 
@@ -93,18 +91,3 @@ torchrun --nproc_per_node 1 eval_reconstruction.py \
         --n_vision_words 100000 \
         --use_cblinear 1 \
         --dataset "imagenet"
-
-
-## 📏 Checkpoints
-
-### Image Quantization
-| Method  | Resolution | Utilization Rate | rFID Score | Checkpoints |
-|---------|---------------|----------|----------|----------|
-| VQGAN-LC | f16 | 99.9%     | 2.62 | [Google Drive](https://drive.google.com/drive/folders/12824gtaR_upGH1DJRNfAjQFiw8c1FmwJ?usp=sharing)
-| VQGAN-LC | f8 | 99.5%     | 1.29 | [Google Drive](https://drive.google.com/drive/folders/12824gtaR_upGH1DJRNfAjQFiw8c1FmwJ?usp=sharing)
-
-
-## 👨‍🏫 Acknowledgement
-
-The evaluation tools are used from [pyiqa](https://github.com/chaofengc/IQA-PyTorch) and [cleanfid](https://github.com/GaParmar/clean-fid).
-
