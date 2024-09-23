@@ -1,4 +1,4 @@
-# TITTLE: <u>T</u>he alignment of the SD3 vae and the large codebook
+TITTLE: <u>T</u>he alignment of the SD3 vae and the large codebook
 
 ## 🔧 Preparation
 
